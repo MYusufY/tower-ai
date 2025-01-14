@@ -21,6 +21,7 @@ It converts Speech-To-Text first. Then it sends the result to the chosen AI mode
    source myenv/bin/activate
    ```
 3. Run the AI/API script
+   
    TowerAI custom model:
    ```
    python3 tower-ai-custom.py
@@ -29,7 +30,7 @@ It converts Speech-To-Text first. Then it sends the result to the chosen AI mode
    ```
    python3 tower-ai-api.py
    ```
-4. Set API key (if you are using Gemini)
+5. Set API key (if you are using Gemini)
    To get an API key, you can follow the steps [of my LVGL Gemini project.](https://github.com/MYusufY/lvgl-gemini/wiki)
 
 # Contact
