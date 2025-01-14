@@ -9,3 +9,28 @@ There are 2 programs. One of them is the API, and the other is the AI. The AI us
 
 # What software does
 It converts Speech-To-Text first. Then it sends the result to the chosen AI model as a prompt. After that, it converts the response into a regular sound file (as mp3). Then it adds a radio effect to it to improve the experience. So it feels like you are really talking with the tower.
+
+# Installation
+1. Clone the repository:
+   ```
+   git clone https://github.com/MYusufY/tower-ai.git
+   cd tower-ai
+   ```
+2. Switch to "myenv" which has all the required libraries and setup
+   ```
+   source myenv/bin/activate
+   ```
+3. Run the AI/API script
+   TowerAI custom model:
+   ```
+   python3 tower-ai-custom.py
+   ```
+   Google Gemini 1.5 Flash API:
+   ```
+   python3 tower-ai-api.py
+   ```
+4. Set API key (if you are using Gemini)
+   To get an API key, you can follow the steps [of my LVGL Gemini project.](https://github.com/MYusufY/lvgl-gemini/wiki)
+
+# Contact
+You can contact us here: [tachion.software@gmail.com](mailto:tachion.software@gmail.com?subject=Project%20TowerAI)
