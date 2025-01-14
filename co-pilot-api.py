@@ -8,7 +8,7 @@ import os
 import speech_recognition as sr
 
 # Configure the API key for the generative model
-genai.configure(api_key="AIzaSyAZL6dmWDySSUf3wz84gglAIqS1obZcJFA")
+genai.configure(api_key="") # Set your API key
 
 class ask_AIr:
     def __init__(self):
