@@ -1,3 +1,6 @@
+# OLD VERSION
+Visit [tower-ai-v2](https://github.com/MYusufY/tower-ai-v2)
+
 # tower-ai
 Tower for RC Planes, for a better flight simulation.
 
