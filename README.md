@@ -1,4 +1,4 @@
-# OLD VERSION
+# THIS IS THE OLD VERSION
 Visit [tower-ai-v2](https://github.com/MYusufY/tower-ai-v2)
 
 # tower-ai
